@@ -2,7 +2,7 @@
 
 ## Task List:
 
-- [ ] Set up project structure
+- [x] Set up project structure
 - [ ] Frontend setup
 - [ ] Backend setup
 - [ ] Database setup
