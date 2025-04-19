@@ -3,7 +3,7 @@
 ## Task List:
 
 - [x] Set up project structure
-- [ ] Frontend setup
+- [x] Frontend setup
 - [ ] Backend setup
 - [ ] Database setup
 - [ ] Implement user authentication
