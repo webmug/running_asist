@@ -4,7 +4,7 @@
 
 - [x] Set up project structure
 - [x] Frontend setup
-- [ ] Backend setup
+- [x] Backend setup
 - [ ] Database setup
 - [ ] Implement user authentication
 - [ ] Create user profile
